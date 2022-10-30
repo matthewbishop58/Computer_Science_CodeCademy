@@ -100,7 +100,7 @@ class TicTacToe:
 
             # checking whether the game is a draw or not
             if self.is_board_filled():
-                print('Match Draw!')0
+                print('Match Draw!')
                 break
 
             # swapping the turn
